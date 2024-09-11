@@ -39,7 +39,7 @@
 <details>
   <summary>Сертификат</summary> 
   
-https://disk.yandex.ru/i/ynqjQnXtCRlNaw
+[Яндекс летние школы](https://disk.yandex.ru/i/ynqjQnXtCRlNaw)
   </details>
 
 
