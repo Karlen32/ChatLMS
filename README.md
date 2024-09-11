@@ -39,7 +39,7 @@
 <details>
   <summary>Сертификат</summary> 
   
-[Практикум_М.pdf](https://github.com/user-attachments/files/16958675/_.pdf)
+https://disk.yandex.ru/i/ynqjQnXtCRlNaw
   </details>
 
 
